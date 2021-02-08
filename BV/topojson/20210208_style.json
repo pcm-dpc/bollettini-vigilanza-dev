@@ -32,30 +32,26 @@
 			{
 				"property": "fillColor",
 				"values": [{
-						"key": "1",
+						"key": 1,
 						"value": "#FFFFFF"
 					},
 					{
-						"key": "2",
+						"key": 2,
 						"value": "#C3FFFE"
 					},
 					{
-						"key": "3",
+						"key": 3,
 						"value": "#50FFFF"
 					},
 					{
-						"key": "4",
+						"key": 4,
 						"value": "#508BFF"
 					},
 					{
-						"key": "5",
+						"key": 5,
 						"value": "#A040FF"
 					}
 				]
-			},
-			{
-				"property": "fill",
-				"values": []
 			}
 		]
 	}]
