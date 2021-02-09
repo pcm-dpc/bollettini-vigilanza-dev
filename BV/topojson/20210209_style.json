@@ -48,10 +48,14 @@
 						"value": "#508BFF"
 					},
 					{
-						"key": 5,
+						"key": 5",
 						"value": "#A040FF"
 					}
 				]
+			},
+			{
+				"property": "fill",
+				"values": []
 			}
 		]
 	}]
